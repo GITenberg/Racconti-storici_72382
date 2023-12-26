@@ -1,0 +1,32 @@
+_repo: Racconti-storici_72382
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bazzoni, Giambattista
+    aliases:
+    - Bazzoni, Giovanni Battista
+    - Bazzoni, G. B. (Giambattista)
+    birthdate: 1803
+    deathdate: 1850
+    gutenberg_agent_id: '32453'
+    url: http://www.gutenberg.org/2009/agents/32453
+    wikipedia: https://it.wikipedia.org/wiki/Giambattista_Bazzoni
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72382'
+language: it
+pgterms:marc904: http://www.urfm.braidense.it/rd/Z+_16_014.pdf
+pgterms:marc905: 20211102094331bazzoni
+pgterms:marc906: '1832'
+pgterms:marc907: IT
+production_note: Barbara Magni
+publication_note: '  $aMilano :$bManini, $c1832.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Racconti storici
+url: http://www.gutenberg.org/ebooks/72382
